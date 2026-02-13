@@ -14,6 +14,7 @@ After the [malicious skills incident](https://clawhub.ai) on ClawhHub, we decide
 
 | Skill | Description |
 |-------|-------------|
+| [asana](skills/asana/) | Manage Asana tasks, projects, sections via REST API. PAT auth, zero dependencies. |
 | [deslop](skills/deslop/) | Detect and remove AI writing patterns. 24 pattern categories, vocabulary tiers, statistical signals. |
 
 ## Install
